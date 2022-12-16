@@ -173,3 +173,5 @@ SPECTACULAR_SETTINGS = {
     'VERSION': '1.0.0',
     'SERVE_INCLUDE_SCHEMA': False,
 }
+
+ALLOWED_HOSTS = ['deployppython-production.up.railway.app', '0.0.0.0']
